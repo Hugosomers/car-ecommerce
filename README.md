@@ -6,3 +6,4 @@
 - CSS3
 - Java Script
 - React, Redux, Hooks
+- Mongo DB
