@@ -1,0 +1,16 @@
+.Nav {
+  border-bottom: 1px solid #2b2c3442;
+  color: #2b2c34;
+  -webkit-box-shadow: 0px 5px 6px -4px rgba(43,44,52,0.24); 
+  box-shadow: 0px 5px 6px -4px rgba(43,44,52,0.24);
+  height: 80px;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  justify-content: space-between;
+}
+
+.reactIcons {
+  font-size: 25px;
+}
